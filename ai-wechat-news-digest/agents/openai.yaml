@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI WeChat News Digest"
+  short_description: "Digest three recent articles per authoritative AI WeChat source."
+  default_prompt: "Use $ai-wechat-news-digest to collect the three most recent publicly verifiable articles from each authoritative AI WeChat account and summarize them."
